@@ -1,0 +1,48 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	margin:2rem;
+	text-align: center;
+}
+
+a
+{
+	color:#c00;
+	text-decoration: none;
+}
+
+#result
+{
+	background-color: #c00;
+	color:#fff;
+	padding:1rem;
+	margin:2rem;
+}
+
+.title
+{
+    font-size: -webkit-xxx-large;
+    border-bottom: 0.4rem solid #c00;
+    padding: 0 0 2rem 0;
+    margin: 2rem;
+}
+
+input[type="text"]
+{
+    padding: 1rem;
+    font-size: larger;
+    border: 0;
+    background-color: #000;
+    color:#fff;
+}
+
+form#urlform
+{
+    background-color: #c00;
+    margin: 2rem;
+}

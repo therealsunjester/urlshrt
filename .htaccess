@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^v/(.+)?$ handle.php?url=$1

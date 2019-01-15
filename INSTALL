@@ -1,0 +1,4 @@
+-- installation
+1. upload files to server
+2. open Db.class.php and change the values at the top to match your own
+3. import the db.sql file into your database
